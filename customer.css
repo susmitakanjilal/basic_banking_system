@@ -1,0 +1,22 @@
+.navbar-nav{
+  font-family:'Oxygen',sans-serif;
+  text-decoration:rgb(102, 27, 27);
+  font-weight: bold;
+}
+#nav-bar
+{
+	background-color:#d9e5f5;
+	position:static;
+	top:0;
+	z-index:10;
+}
+.nav-link:hover {
+	background-image: url("");
+}
+.nav-link {
+	font-family:'Oxygen',sans-serif;
+}
+a{
+	color:white;
+}
+
